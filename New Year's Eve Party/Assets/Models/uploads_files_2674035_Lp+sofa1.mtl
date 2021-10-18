@@ -1,0 +1,9 @@
+newmtl polySurface25SG
+illum 4
+Kd 0.70 0.70 0.70
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+bump  -bm 1 Lp_sofa_Sofa1_Normal.tif
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 4.31
